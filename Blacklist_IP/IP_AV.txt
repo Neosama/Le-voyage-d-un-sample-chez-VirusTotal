@@ -1,0 +1,48 @@
+
+IP BlackList (AVs & Co)
+
+104.222.149.127 | ISP = Virtualization Cloud Company
+71.58.0.0/15	| ISP = Comcast Cable Communications Holdings, Inc
+37.142.0.0/16	| ISP = HOTNET
+161.69.99.11    | ISP = McAfee, Inc.
+69.164.111.198  | ISP = EPAM SYSTEMS, INC.
+89.136.135.87	| ISP = UPC Romania SRL AVIRA
+52.58.12.201	| ISP = Unknown ? (Amazon & Microsoft Azure) AVIRA
+81.27.127.83	| ISP = DE-TELEDATA EU
+178.24.60.178	| ISP = Kabeldeutschland Route
+85.186.98.154	| ISP = UPC Romania SRL AVIRA
+5.9.115.84	| ISP = Hetzner Online AG OPTENET
+217.92.83.91    | ISP = Deutsche Telekom AG Avira
+52.58.51.176    | ISP = Amazon Avira
+52.29.44.93     | ISP = Amazon Avira
+178.48.234.234	| ISP = UPC Hungary Ukatemi (Botnet Monitoring)
+163.172.139.161 | ISP = Online SAS
+
+Avast Plages
+5.45.62.0/24
+77.234.40.0/24
+77.234.41.0/24
+77.234.42.0/24
+77.234.43.0/24
+77.234.44.0/24
+77.234.45.0/24
+91.213.143.0/24
+195.74.76.0/24
+
+Kaspersky Plages
+77.74.176.0/21
+91.103.64.0/21
+93.159.224.0/21
+
+Avira Plages
+5.104.152.0/21
+185.123.224.0/22
+5.104.156.0/23
+89.105.203.0/24
+
+Check Point Plages
+91.90.128.0/20
+194.29.32.0/20
+194.29.34.0/24
+194.29.46.0/24
+
